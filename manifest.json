@@ -1,0 +1,16 @@
+{
+  "version": "2026-11-21_00-04-00_IST-f9282c8b19dd",
+  "published_at": "2026-11-21T00:05:48+05:30",
+  "source_file": "EU_Relo_TTA.csv",
+  "source_mtime": "2026-11-21T00:04:00+05:30",
+  "file": "tta-lanes.csv",
+  "bytes": 32976707,
+  "sha256": "f9282c8b19dd9573660bb7b901ab62a3e931f9e6007d0f3389c0d74d51d1089e",
+  "total_lanes": 1076392,
+  "lanes_with_km": 1076392,
+  "columns": [
+    "lane",
+    "transit_time_minutes",
+    "distance_km"
+  ]
+}
